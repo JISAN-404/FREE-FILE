@@ -1,2 +1,2 @@
 import LG1
-LG1.__DARK___DARK__
+LG1.__DARK______()
