@@ -1,2 +1,2 @@
-import IG1
+import LG1
 LG1.__DARK___()
